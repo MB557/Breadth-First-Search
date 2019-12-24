@@ -1,4 +1,4 @@
-# Breadth-First-Search
+# Breadth-First-Search Cost
 
 Implement __Breadth First Search__ on vertices numbered 0 to V-1. Implement the graph using an adjacency list only.
 
