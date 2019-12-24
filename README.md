@@ -38,6 +38,12 @@ The edges are prioritized in the order they are input, with an earlier edge in i
 
 3 4 <br/>
 
+4 3 <br/>
+
+4 5 <br/>
+
+5 4 <br/>
+
 ## Sample Output
 
 0 <br/>
@@ -53,9 +59,3 @@ The edges are prioritized in the order they are input, with an earlier edge in i
 1 <br/>
 
 -1 <br/>
-
-4 3 <br/>
-
-4 5 <br/>
-
-5 4 <br/>
